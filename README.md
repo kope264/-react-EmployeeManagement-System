@@ -1,8 +1,8 @@
 
-# Employee Management System
+# THE OFFICE
 
 ## 📌 Overview
-The **Employee Management System** is a web-based application designed to help administrators manage tasks assigned to employees. This system allows admins to create, assign, and track the progress of various tasks.
+ **The office** is a Employee Management System a web-based application designed to help administrators manage tasks assigned to employees. This system allows admins to create, assign, and track the progress of various tasks.
 
 ## 🚀 Features
 - **User Authentication**: Secure login and logout for admins and employees.
